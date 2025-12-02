@@ -3,3 +3,5 @@ print("track1")
 
 print("hello")
 print("")
+
+print("details")
